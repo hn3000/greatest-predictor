@@ -1,5 +1,5 @@
 
-# Implementing the "Single Greatest Predictor of Future Stock Marrket Returns"
+# Implementing the "Single Greatest Predictor of Future Stock Market Returns"
 
 Source for the idea:
 
